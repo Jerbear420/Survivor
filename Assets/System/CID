@@ -1,0 +1,7 @@
+WorldBehaviour
+Humanoid <Creature>
+Player <Humanoid>
+Creature
+Squig <Creature>
+Items
+Weapons <Items>

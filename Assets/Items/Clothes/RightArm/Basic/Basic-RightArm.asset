@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Basic-RightArm
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Direction
+    m_Hash: -1128574192
+    m_CategoryList:
+    - m_Name: _front
+      m_Hash: 1958973034
+      m_Sprite: {fileID: 21300000, guid: 36f5e07d8699e5f40b2ec58b15c9ed25, type: 3}
+    - m_Name: _back
+      m_Hash: 820752684
+      m_Sprite: {fileID: 21300000, guid: 755dcae9080b50f4abc52203aac7990c, type: 3}
+    - m_Name: _left
+      m_Hash: 658675571
+      m_Sprite: {fileID: 21300000, guid: 23d62bcd3ef1ef74c8d8565fb1ce90d8, type: 3}
+    - m_Name: _right
+      m_Hash: 1056086408
+      m_Sprite: {fileID: 21300000, guid: 72f56063fbcc4f546883b2eccb2c74d1, type: 3}
